@@ -1,5 +1,3 @@
-# Data-Mining-on-nursing-homes
+# Nursing Home Financial Intelligence: A Predictive Analytics Approach
 
-• Applied machine learning algorithms (Random Forest, Decision Trees, Logistic Regression) for predictive analysis of nursing home data.
-
-• Utilized Python, Pandas, Scikit-learn, and Matplotlib for data visualization and model development.
+This project analyzes financial and operational data from 100K+ U.S. nursing homes (2015–2021) to uncover trends and predict profitability using machine learning models like Random Forest and Logistic Regression. Key features like bed count, inpatient revenue, and operating expenses were identified as top predictors. Insights can support strategic decisions in healthcare finance and policy.
